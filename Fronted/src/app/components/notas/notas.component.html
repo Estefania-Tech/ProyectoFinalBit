@@ -1,5 +1,5 @@
 <div class="notas-container">
-  <h2>📝 Mis Notas</h2>
+  <h2>Mis Notas</h2>
 
   <form (ngSubmit)="guardarNota()" class="formulario-nota">
     <input
@@ -24,7 +24,7 @@
     </select>
 
     <button type="submit">
-      {{ editandoId ? 'Actualizar nota ✏️' : 'Agregar nota ➕' }}
+      {{ editandoId ? 'Actualizar nota' : 'Agregar nota' }}
     </button>
   </form>
 
@@ -38,9 +38,9 @@
       <p>{{ nota.contenido }}</p>
       <small>Categoría: {{ nota.categoria }}</small>
       <div class="acciones">
-        <button (click)="editarNota(nota)">✏️ Editar</button>
+        <button (click)="editarNota(nota)">Editar</button>
         <button (click)="eliminarNota(nota._id!)" class="eliminar">
-          🗑️ Eliminar
+          Eliminar
         </button>
       </div>
     </div>
