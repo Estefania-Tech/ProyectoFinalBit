@@ -24,8 +24,10 @@ eliminación de estas, así como el de modificar o añadir una nueva nota, a su 
 se encontrará el botón de Cerrar sesión que lo redireccionara a iniciar sesión vista principal del 
 proyecto.
 
-**Errores en el proyecto**
-en la vista **Notas**, no permite añadir una nueva nota, ni modificarla
-el localhost arroja uyn error en la que no se encuentra el ID del usuario 
-que ha iniciado sesión y para  realizar dichas acciones es necesaria un id para poder identificar 
+**Errores en el proyecto**: 
+en la vista **Notas**, no permite añadir una nueva nota, ni modificarla,
+el localhost arroja un error en la que no se encuentra el ID del usuario 
+que ha iniciado sesión, y para  realizar dichas acciones es necesaria un id para poder identificar 
 las notas añadidas de cada usuario.
+en **login** y **register** no sirven los enlaces para redirigir a cada vista de ser necesario
+en la vista principal si se desea registrar, "Registrase no funciona". y viceversa
