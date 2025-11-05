@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+# Proyecto-Final
+Unión entre el Backend y  Fronted usando Angular CLI
+<<<<<<< HEAD
+=======
+>>>>>>> f4167ba0def5a8b9b3d93837615ffcf7936c9c84
 =======
 # **Miprimeraapp**
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.17.
