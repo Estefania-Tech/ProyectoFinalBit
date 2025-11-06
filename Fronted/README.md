@@ -1,11 +1,9 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# Proyecto-Final
-Unión entre el Backend y  Fronted usando Angular CLI
 =======
-# Miprimeraapp
-
+# **Miprimeraapp**
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.17.
+
+En esta parte se encuentra la estructura del Fronted del proyecto generado en Angular CLi
+
 
 ## Development server
 
@@ -32,5 +30,4 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 >>>>>>> 130e658 (initial commit)
 =======
-# notas--proyecto-backend-300h
->>>>>>> f2f1aa4 ( README.md)
+
